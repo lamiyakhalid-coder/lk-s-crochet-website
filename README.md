@@ -1,6 +1,6 @@
 # CrochetCraft
 
-A multi-page static website for a handmade crochet business. Built as part of my Codveda Web Development Internship (Level 1 - Task 1).
+A multi-page static website for a handmade crochet business.
 
 ## What It Is
 
@@ -38,4 +38,4 @@ If I were to keep going with this one, I'd probably add JavaScript form validati
 
 ---
 
-Built by Lamiya as part of the Codveda Technology internship — February 2026.
+Built by Lamiya khalid — February 2026.
